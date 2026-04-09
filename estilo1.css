@@ -2,12 +2,12 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
 }
 
 
 header{
-    background-color: blueviolet;
+    background-color: rgb(253, 179, 243);
     color: white;
     padding: 20px;
 }
@@ -22,7 +22,7 @@ h1{
 nav{
     display: flex;
     justify-content: space-between;
-    background-color: aquamarine;
+    background-color: rgb(202, 249, 233);
     padding: 10px 20px;
     border-radius: 8px;
 }
@@ -30,7 +30,7 @@ nav{
 
 .esquerda a, .direita a{
     text-decoration: none;
-    color: white;
+    color: rgb(247, 162, 162);
     margin-right: 20px;
 }
 
@@ -46,8 +46,8 @@ nav a:hover {
 
 
 footer{
-    background-color: aqua;
-    color: white;
+    background-color: rgb(254, 237, 251);
+    color: rgb(247, 172, 172);
     text-align: center;
     padding: 15px;
     bottom: 0;
